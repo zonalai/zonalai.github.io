@@ -769,7 +769,8 @@ html{
 	/* $home
 ---------------------------*/
 	.home__portrait{
-		background-size: 60vh;
+		background-size: 65vh;
+		right: -40px;
 	}
 	.home{
 		padding-bottom: 5vh;
